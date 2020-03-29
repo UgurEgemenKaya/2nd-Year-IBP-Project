@@ -1,2 +1,7 @@
 "# 2nd-Year-IBP-Project" 
-"# 2nd-Year-IBP-Project" 
+This internet based programming project contains some basic CSS, HTML5, Database operations and PHP.
+In this project the website can do the followings;
+1) Member registiration
+2) Member Login/Logout
+
+You can rech the live version from here : http://uegemenkaya.atwebpages.com
